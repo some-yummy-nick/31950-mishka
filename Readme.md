@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Марат Шаймарданов](https://up.htmlacademy.ru/adaptive/8/user/31950).
-* Наставник: `Неизвестно`.
+* Наставник: без наставника.
 
 ---
 
